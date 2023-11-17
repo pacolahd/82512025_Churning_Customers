@@ -1,4 +1,4 @@
-# 82512025_Churning_Customers
+### 82512025_Churning_Customers
 Author: Ryan Tangu Mbun Tangwe
 
 # Telco Churn Prediction App
@@ -41,6 +41,7 @@ The backend will start on `http://localhost:5000`.
 {
   "input_data": [28, 2.0, 150.5, "Yes", "No", "Fiber optic", "No", "No", "Yes", "No", "Yes", "No", "Electronic check"]
 }
+```
 
 ### Sample Response Body
 
@@ -49,6 +50,7 @@ The backend will start on `http://localhost:5000`.
   "prediction": 1,
   "confidence": 85.34
 }
+```
 
 - `prediction`: Binary prediction for customer churn (1 for Yes, 0 for No).
 - `confidence`: Confidence level in percentage for the prediction.
