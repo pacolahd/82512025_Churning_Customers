@@ -1,6 +1,7 @@
 ### 82512025_Churning_Customers
 Author: Ryan Tangu Mbun Tangwe
-
+- Link to colab file:
+  https://colab.research.google.com/drive/1ZjEsywgpMQlAxZO5d1Rt8dLb3GA9gc3E?usp=sharing
 # Telco Churn Prediction App
 
 This project consists of a Telco Churn Prediction system with a backend implemented in Flask and a Flutter-based frontend for user interaction.
